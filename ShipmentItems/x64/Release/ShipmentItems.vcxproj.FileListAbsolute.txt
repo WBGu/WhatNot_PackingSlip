@@ -1,0 +1,7 @@
+C:\Users\weibi\source\repos\ShipmentItems\x64\Release\xlsxio_read.dll
+C:\Users\weibi\source\repos\ShipmentItems\x64\Release\minizip.dll
+C:\Users\weibi\source\repos\ShipmentItems\x64\Release\zlib1.dll
+C:\Users\weibi\source\repos\ShipmentItems\x64\Release\bz2.dll
+C:\Users\weibi\source\repos\ShipmentItems\x64\Release\libexpat.dll
+C:\Users\weibi\source\repos\ShipmentItems\x64\Release\xlsxwriter.dll
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems\x64\Release\Shipment.52EAF420.Up2Date

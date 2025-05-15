@@ -1,0 +1,27 @@
+﻿   Qt/MSBuild: 3.3.1.1
+  Reading Qt configuration (C:/Qt/6.8.2/msvc2022_64/bin/qmake)
+   Qt: 6.8.2
+  uic ShipmentItems.ui
+  rcc ShipmentItems.qrc
+  moc ShipmentItems.h
+   RCC: Warning: No resources in 'C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.qrc'.
+  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\weibi\source\repos\ShipmentItems\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  UserOrders.cpp
+  ShipmentItems.cpp
+  main.cpp
+C:\Users\weibi\source\repos\ShipmentItems\UserOrders.cpp(108,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weibi\source\repos\ShipmentItems\UserOrders.cpp(145,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(235,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(247,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(308,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(254,53): warning C4101: 'e': unreferenced local variable
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(273,57): warning C4101: 'e': unreferenced local variable
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(286,53): warning C4101: 'e': unreferenced local variable
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(315,53): warning C4101: 'e': unreferenced local variable
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(334,57): warning C4101: 'e': unreferenced local variable
+C:\Users\weibi\source\repos\ShipmentItems\ShipmentItems.cpp(347,53): warning C4101: 'e': unreferenced local variable
+  qrc_ShipmentItems.cpp
+  moc_ShipmentItems.cpp
+  ShipmentItems.vcxproj -> C:\Users\weibi\source\repos\ShipmentItems\x64\Debug\ShipmentItems.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

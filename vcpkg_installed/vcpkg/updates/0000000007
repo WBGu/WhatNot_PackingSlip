@@ -1,0 +1,9 @@
+Package: libxlsxwriter
+Version: 1.1.8
+Port-Version: 1
+Depends: minizip, vcpkg-cmake, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 9b16d1f0c0d87527e2eb7aa8ce670e969180348f67f0c2821cf8ad0d99ff1ed8
+Description: Libxlsxwriter is a C library that can be used to write text, numbers, formulas and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file.
+Status: install ok installed

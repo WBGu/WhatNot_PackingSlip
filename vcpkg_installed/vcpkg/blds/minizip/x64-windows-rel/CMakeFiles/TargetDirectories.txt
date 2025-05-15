@@ -1,0 +1,6 @@
+C:/Users/weibi/source/repos/ShipmentItems/vcpkg_installed/vcpkg/blds/minizip/x64-windows-rel/CMakeFiles/minizip.dir
+C:/Users/weibi/source/repos/ShipmentItems/vcpkg_installed/vcpkg/blds/minizip/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/weibi/source/repos/ShipmentItems/vcpkg_installed/vcpkg/blds/minizip/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/Users/weibi/source/repos/ShipmentItems/vcpkg_installed/vcpkg/blds/minizip/x64-windows-rel/CMakeFiles/list_install_components.dir
+C:/Users/weibi/source/repos/ShipmentItems/vcpkg_installed/vcpkg/blds/minizip/x64-windows-rel/CMakeFiles/install.dir
+C:/Users/weibi/source/repos/ShipmentItems/vcpkg_installed/vcpkg/blds/minizip/x64-windows-rel/CMakeFiles/install/local.dir
